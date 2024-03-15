@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What is Romeo's last name?",
+      "answers": [
+        "Escalus",
+        "Capulet",
+        "Montague",
+        "Capulet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is Juliet's last name?",
+      "answers": [
+        "Capulet",
+        "Montague",
+        "Escalus",
+        "Laurence"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Where does Romeo and Juliet take place?",
+      "answers": [
+        "Boston",
+        "Florence",
+        "Rome",
+        "Verona"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who recognizes Romeo at the party?",
+      "answers": [
+        "Paris",
+        "Tybalt",
+        "Juliet",
+        "Lord Capulet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How are Juliet and Tybalt related?",
+      "answers": [
+        "Cousins",
+        "Siblings",
+        "Niece and uncle",
+        "They aren't"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who kills Mercutio?",
+      "answers": [
+        "Romeo",
+        "Tybalt",
+        "Prince Escalus",
+        "Benvolio"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who does Juliet marry?",
+      "answers": [
+        "Paris",
+        "Benvolio",
+        "Tybalt",
+        "Romeo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who gets to the tomb first?",
+      "answers": [
+        "Romeo",
+        "Friar Laurence",
+        "Paris",
+        "Lord Capulet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How does Juliet die?",
+      "answers": [
+        "Gun",
+        "Leftover Poison",
+        "Dagger",
+        "She doesn't"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How does Romeo die?",
+      "answers": [
+        "Poison",
+        "Dagger",
+        "Heartbreak",
+        "He doesn't"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
